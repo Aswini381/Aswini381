@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswini</h1>
 <h3 align="center">A passionate Python Backend developer from India</h3>
-<img align="right" alt="coding" with:"200" src="https://www.shutterstock.com/image-vector/professional-woman-standing-while-working-600nw-2624214863.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswini&label=Profile%20views&color=0e75b6&style=flat" alt="aswini" /> </p>
 
