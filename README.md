@@ -25,7 +25,6 @@
 
 ## 📫 Connect With Me
 - Gmail: aswinik2608@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
-
+- LinkedIn: www.linkedin.com/in/aswinikathirvel
 ## ⚡ Fun Fact
 I enjoy solving coding problems and learning something new every day.
