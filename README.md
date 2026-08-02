@@ -8,7 +8,7 @@
 - Python
 - Numpy
 - Pandas
-- Matplotlit
+- Matplotlib
 - Django
 - MySQL
 - HTML
