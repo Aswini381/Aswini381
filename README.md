@@ -9,6 +9,13 @@
 - Numpy
 - Pandas
 - Matplotlib
+- RAG
+- Langchain
+- LangGraph
+- LLM
+- NLP
+- Prompt Engineering
+- Streamlit
 - Django
 - MySQL
 - HTML
