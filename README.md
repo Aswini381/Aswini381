@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswini</h1>
-<h3 align="center">Aspiring Generative AI Engineer</h3>
+<h3 align="center">Aspiring Generative AI Engineer / Python Developer </h3>
 
 ## 💻 About Me
 - 💬 Ask me about **I am a Computer Science graduate. I have experience building projects using Python and Django, and I have worked with databases like SQL. I enjoy developing backend systems, learning new technologies, and solving real-world problems through code. Currently, I am improving skills and working on projects to strengthen my knowledge.**
