@@ -5,22 +5,41 @@
 - 💬 Ask me about **I am a Computer Science graduate. I have experience building projects using Python and Django, and I have worked with databases like SQL. I enjoy developing backend systems, learning new technologies, and solving real-world problems through code. Currently, I am improving skills and working on projects to strengthen my knowledge.**
 
 - ## 🛠️ Skills
+
+- ### 🐍 Programming & Development
 - Python
-- Numpy
-- Pandas
-- Matplotlib
-- RAG
-- Langchain
-- LangGraph
-- LLM
-- NLP
-- Prompt Engineering
-- Streamlit
+- Data Structures & Algorithms (DSA)
 - Django
-- MySQL
+- Streamlit
 - HTML
 - CSS
 - Bootstrap
+- JavaScript (Basic)
+
+- ### 🤖 Generative AI / LLM
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- RAG (Retrieval-Augmented Generation)
+- LangChain
+- LangGraph
+- NLP
+- Embeddings
+- Vector Databases
+- Semantic Search
+- LLM APIs
+- AI Agents
+- Data & Machine Learning
+- NumPy
+- Pandas
+- Machine Learning Fundamentals
+
+- ### 🗄️ Database & Tools
+- MySQL
+- REST APIs
+- JSON
+- Git
+- GitHub
 
 
 
